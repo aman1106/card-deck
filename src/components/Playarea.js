@@ -84,7 +84,6 @@ class Playarea extends Component {
   }
 
   render () {
-    console.log(this.state.drawncards.length);
     return (
       <>
         <div>
